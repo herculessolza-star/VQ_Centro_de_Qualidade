@@ -1,0 +1,7 @@
+{
+  "name": "Centro de Qualidade - VQ (Qualidade do Veículo)",
+  "description": "Plataforma integrada para controle controle e gestão do Centro de Qualidade BYD",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
